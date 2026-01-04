@@ -1754,7 +1754,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 - [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. ([Demo](https://sshwifty-demo.nirui.org)) `AGPL-3.0` `Go/Docker`
 - [Termix](https://docs.termix.site/) - Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities. ([Source Code](https://github.com/LukeGus/Termix)) `Apache-2.0` `Docker`
 - [Warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
-
+- [SiteKit](https://github.com/avansaber/sitekit) - Server management platform for deploying web applications. Provision servers, manage databases, issue SSL certificates, and deploy via Git. Alternative to Laravel Forge, Runcloud etc. `Apache-2.0` `Nodejs` `Nginx`
 
 ### Resource Planning
 
